@@ -17,4 +17,5 @@ Cover letter 就写三段：第一段申请的什么职位，第二段经验怎�
 
 Seek 和 LinkedIn 上投社招职位的简历模版
 
-突出技术
+- 突出技术
+- Summary 部分一定要自己改一下，hr 和 headhunting 中介不喜欢套模版的
