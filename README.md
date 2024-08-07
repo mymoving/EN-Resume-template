@@ -16,3 +16,5 @@ Cover letter 就写三段：第一段申请的什么职位，第二段经验怎�
 ## SE-CV-template-V2.docx
 
 Seek 和 LinkedIn 上投社招职位的简历模版
+
+突出技术
